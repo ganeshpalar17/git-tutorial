@@ -1,0 +1,3 @@
+git init
+git status
+git add filename/foldername/.   //is used to track entire current folder
