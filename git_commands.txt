@@ -1,7 +1,3 @@
 git init
 git status
 git add filename/foldername/.   //is used to track entire current folder
-git commit -m "message"
-to create a version or commit a new version
-git config --global user.email "ganeshapalar17@gmail.com"
-git config --global user.name "Ganesh B S"

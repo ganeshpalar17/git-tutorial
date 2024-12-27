@@ -1,1 +1,1 @@
-print("Hello world!, Version 1 hrhr xcvdf dfg")
+print("Hello world!, Version 1")
